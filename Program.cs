@@ -21,7 +21,7 @@ if (Convert.ToInt32(inverted) == number)
 }
 else Console.WriteLine("нет");
 }
-else Console.WriteLine("Введенное число должно быть пятизначным"); */
+else Console.WriteLine("Введенное число должно быть пятизначным"); 
 
  
 /*Задача 21: Напишите программу, которая принимает 
